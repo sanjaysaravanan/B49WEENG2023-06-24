@@ -1,0 +1,74 @@
+Topics:
+
+  Executing js file,
+
+    terminal: node <path-for-the-js-file>
+
+  array:
+    push method
+      (method) Array<any>.push(...items: any[]): number
+      Appends new elements to the end of an array, and
+       returns the new length of the array.
+
+  using the codekata codes in local
+
+  using \n for new line in output
+
+  .join() ---> used only for array
+
+  Number() ---> string to number
+
+  Number to String
+      number.toString() --> number to string
+      Adding an empty string: adding a number to string will give concatenated string output
+
+  function -->
+      a set of statements into single method/function
+      return can be used to return a value
+
+  Fibonacci Series:
+      0 1 1 2 3 5 8 13 21 34
+
+      Print first five Fibonacci numbers:
+
+      0 1 1 2 3
+
+      0
+      1
+      1
+      2
+      3
+        
+  
+  Factorial of a Number
+      5!(factorial) ---> 5 x 4 x 3 x 2 x 1
+
+      Input: 5
+      Output: 120
+  
+  String:
+      str.trim() --> removes both the initial and trailing spaces
+  
+Next Session:
+  Recursion
+  Iterating array and object:
+    Object or Dictionary ( data storing variable ) 
+      key <-> value pair
+        {
+            name: 'Sanjay',
+            role: 'Developer',
+            desgination: 'Software Engineer'
+        }
+
+  Array Problems - Basic Algorithms
+      1. Searching
+      2. Loop inside loop
+      3. Sum Of Arrays
+      4. Largest of an array
+      5. Smallest of an array
+
+  Prime Number
+  Array Reverse, Sorting
+  String:
+      1. Reverse a String
+      2. Palindrome
