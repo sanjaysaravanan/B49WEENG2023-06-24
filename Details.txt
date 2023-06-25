@@ -1,6 +1,6 @@
 Topics:
 
-  Executing js file,
+  Executing js file, run js wihout browser
 
     terminal: node <path-for-the-js-file>
 
