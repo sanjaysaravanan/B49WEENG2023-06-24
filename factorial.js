@@ -5,7 +5,7 @@ const N = 5;
 // Iteration
 
 let i = 1, res = 1;
-while (i <= 5) {
+while (i <= N) {
 
   res = res * i;
   i++;
